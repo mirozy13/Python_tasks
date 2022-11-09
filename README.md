@@ -1,1 +1,1 @@
-# Python. Tasks of 3,4 sections
+# Python and machine learning tasks
